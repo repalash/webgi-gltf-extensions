@@ -1,5 +1,7 @@
 # WebGi GLTF Extensions
 
+[![NPM Package](https://img.shields.io/npm/v/webgi-gltf-extensions.svg)](https://www.npmjs.com/package/webgi-gltf-extensions)
+
 GLTF Extensions used in WebGi - https://webgi.xyz/docs
 
 ## Usage
